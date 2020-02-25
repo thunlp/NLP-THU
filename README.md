@@ -1,2 +1,2 @@
 # NLP-THU
-NLP Course Material &amp; QA
+This repository provides reading materials recommended by NLP Course.
