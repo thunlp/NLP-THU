@@ -219,23 +219,18 @@ Further reading
 
 ## 13. Discourse Analysis
 #### Reference in Language & Coreference Resolution
-##### Must-read Papers
 1. **Unsupervised Models for Coreference Resolution**  [[link]]() EMNLP 2008.
 2. **End-to-end Neural Coreference Resolution** [[link]]() EMNLP 2017
-##### Further Reading
-1. **Coreference Resolution as Query-based Span Prediction arxiv 2019**.  [[link]]()
+3. **Coreference Resolution as Query-based Span Prediction arxiv 2019**.  [[link]]()
 #### Coherence & Discourse Relation Classification
 1. **Implicit Discourse Relation Classification via Multi-Task Neural Networks**. AAAI 2016  [[link]]()
 2. **Implicit Discourse Relation Detection via a Deep Architecture with Gated Relevance Network**. ACL 2016 [[link]]()
 3. **Employing the Correspondence of Relations and Connectives to Identify Implicit Discourse Relations via Label Embeddings**. ACL 2019 [[link]]()
 4. **Linguistic properties matter for implicit discourse relation recognition: Combining semantic interaction, topic continuity and attribution**. AAAI 2018 [[link]]()
 #### Context Modeling and Conversation
-##### Must-read papers
 1. **A Survey on Dialogue Systems: Recent Advances and New Frontiers**. Hongshen Chen, Xiaorui Liu, Dawei Yin, Jiliang Tang2018 [[link]]()
 2. **A Diversity-Promoting Objective Function for Neural Conversation Models**. Jiwei Li, Michel Galley, Chris Brockett, Jianfeng Gao, Bill DolanNAACL 2016 [[link]]()
 3. **A Persona-Based Neural Conversation Model**. Jiwei Li, Michel Galley, Chris Brockett, Georgios PSpithourakis, Jianfeng Gao, Bill DolanACL 2016 [[link]]()
-##### Further reading
-1. paper list [[link]]()
 
 ## 14. Interdiscipline
 #### Cognitive Linguistics and NLP
