@@ -1,5 +1,5 @@
 # NLP-THU Reading Materials
-This repository provides reading materials recommended by NLP Course.
+This repository provides reading materials recommended by NLP-THU Course.
 
 ### 1. Introduction and Word Representation
 #### a. Introduction
