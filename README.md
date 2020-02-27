@@ -23,36 +23,36 @@ This repository provides reading materials recommended by NLP-THU Course.
 ## 3. Seq2Seq Modeling
 ### a. Machine Translation
 #### Must-read Papers
-1. **The Mathematics of Statistical Machine Translation: Parameter Estimation**. Peter EBrown, Stephen ADella Pietra, Vincent JDella Pietra, and Robert LMercerComputational Linguistics 1993 [[link]](http://aclweb.org/anthology/J93-2003)
-2. **(Seq2seq) Sequence to Sequence Learning with Neural Networks**. Ilya Sutskever, Oriol Vinyals, and Quoc VLeNIPS 2014 [[link]](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
-3. **(BLEU) BLEU: a Method for Automatic Evaluation of Machine Translation**. Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing ZhuACL 2002 [[link]](http://aclweb.org/anthology/P02-1040)
+1. **The Mathematics of Statistical Machine Translation: Parameter Estimation**. Peter EBrown, Stephen ADella Pietra, Vincent JDella Pietra, and Robert LMercer. Computational Linguistics 1993 [[link]](http://aclweb.org/anthology/J93-2003)
+2. **(Seq2seq) Sequence to Sequence Learning with Neural Networks**. Ilya Sutskever, Oriol Vinyals, and Quoc VLe. NIPS 2014 [[link]](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+3. **(BLEU) BLEU: a Method for Automatic Evaluation of Machine Translation**. Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing Zhu. ACL 2002 [[link]](http://aclweb.org/anthology/P02-1040)
 #### Further Reading
-1. **Statistical Phrase-Based Translation**. Philipp Koehn, Franz JOch, and Daniel MarcuNAACL 2003 [[link]](http://aclweb.org/anthology/N03-1017)
+1. **Statistical Phrase-Based Translation**. Philipp Koehn, Franz JOch, and Daniel Marcu. NAACL 2003 [[link]](http://aclweb.org/anthology/N03-1017)
 2. **Hierarchical Phrase-Based Translation**. David Chiang. Computational Linguistics 2007  [[link]](http://aclweb.org/anthology/J07-2003)
-3. **(Beam Search) Beam Search Strategies for Neural Machine Translation**. Markus Freitag and Yaser Al-Onaizan2017 [[link]](http://aclweb.org/anthology/W17-3207)
+3. **(Beam Search) Beam Search Strategies for Neural Machine Translation**. Markus Freitag and Yaser Al-Onaizan. 2017 [[link]](http://aclweb.org/anthology/W17-3207)
 4. **MT paper list**.  [[link]](https://github.com/THUNLP-MT/MT-Reading-List)
 5. **THUMT toolkit**.  [[link]](https://github.com/THUNLP-MT/THUMT)
 ### b. Attention
 1. **Introduction to attention**.  [[link]](https://ruder.io/deep-learning-nlp-best-practices/index.html#attention)
-2. **Neural Machine Translation by Jointly Learning to Align and Translate**. Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua BengioICLR 2015 [[link]](https://arxiv.org/pdf/1409.0473.pdf)
+2. **Neural Machine Translation by Jointly Learning to Align and Translate**. Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio. ICLR 2015 [[link]](https://arxiv.org/pdf/1409.0473.pdf)
 ### c. Transformer
 #### Must-read Papers
-1. **(Transformer) Attention is All You Need**. Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan NGomez, Lukasz Kaiser, and Illia PolosukhinNIPS 2017 [[link]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
-2. **(BPE) Neural Machine Translation of Rare Words with Subword Units**. Rico Sennrich, Barry Haddow, and Alexandra BirchACL 2016 [[link]](https://arxiv.org/pdf/1508.07909.pdf)
+1. **(Transformer) Attention is All You Need**. Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan NGomez, Lukasz Kaiser, and Illia Polosukhin. NIPS 2017 [[link]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
+2. **(BPE) Neural Machine Translation of Rare Words with Subword Units**. Rico Sennrich, Barry Haddow, and Alexandra Birch. ACL 2016 [[link]](https://arxiv.org/pdf/1508.07909.pdf)
 #### Further Reading
 1. **Illustrated Transformer**.  [[link]](http://jalammar.github.io/illustrated-transformer/)
-2. **Layer normalization. Ba, Jimmy Lei, Jamie Ryan Kiros, and Geoffrey E**. Hinton2016 [[link]](https://arxiv.org/abs/1607.06450)
-3. **Deep residual learning for image recognition**. Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian SunCVPR 2016 [[link]](https://arxiv.org/abs/1512.03385)
+2. **Layer normalization. Ba, Jimmy Lei, Jamie Ryan Kiros, and Geoffrey E**. Hinton. 2016 [[link]](https://arxiv.org/abs/1607.06450)
+3. **Deep residual learning for image recognition**. Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun. CVPR 2016 [[link]](https://arxiv.org/abs/1512.03385)
 
 ## 4. Pre-Trained Language Models
 ### Must-read papers
 1. **Semi-supervised Sequence Learning**.  [[link]](https://arxiv.org/pdf/1511.01432.pdf)
-2. **(ELMo )Deep contextualized word representations**.  [[link]](https://arxiv.org/pdf/1802.05365.pdf)
-3. **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**.  [[link]]()
+2. **(ELMo) Deep contextualized word representations**.  [[link]](https://arxiv.org/pdf/1802.05365.pdf)
+3. **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**.  [[link]](https://arxiv.org/pdf/1810.04805)
 ### Further Reading
 1. **Introduction of Pre-trained LM**.  [[link]](https://arxiv.org/pdf/1810.04805.pdf)
 2. **Transformer code repo**.  [[link]](https://github.com/huggingface/transformers)
-3. **Transfer Learning in Natural Language Processing. Sebastian Ruder, Matthew E**. Peters, Swabha Swayamdipta, Thomas WolfNAACL 2019 [[link]](https://docs.google.com/presentation/d/1fIhGikFPnb7G5kr58OvYC3GN4io7MznnM0aAgadvJfc/edit?usp=sharing)
+3. **Transfer Learning in Natural Language Processing**. Sebastian Ruder, Matthew E. Peters, Swabha Swayamdipta, Thomas Wolf. NAACL 2019 [[link]](https://docs.google.com/presentation/d/1fIhGikFPnb7G5kr58OvYC3GN4io7MznnM0aAgadvJfc/edit?usp=sharing)
 4. **PLM paper list**.  [[link]](https://github.com/thunlp/PLMpapers)
 
 ## 5. Knowledge Graph
@@ -63,118 +63,112 @@ Further reading
 2. **Semantic Network** [[link]](https://en.wikipedia.org/wiki/Semantic_network)
 ### b. Knowledge Representation Learning
 #### Must-read papers
-1. KRL Papers [[link]](https://github.com/thunlp/KRLPapers)
+1. **KRL paper list** [[link]](https://github.com/thunlp/KRLPapers)
 2. **Knowledge Representation Learning: A Review**. (In Chinese) Zhiyuan Liu, Maosong Sun, Yankai Lin, Ruobing Xie. 计算机研究与发展 2016.  [[link]](http://crad.ict.ac.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=3099)
-3. **A Review of Relational Machine Learning for Knowledge Graphs**. Maximilian Nickel, Kevin Murphy, Volker Tresp, Evgeniy Gabrilovich. Proceedings of the IEEE 2016.  [[link]](https://arxiv.org/pdf/1503.00759.pdf)
+3. **A Review of Relational Machine Learning for Knowledge Graphs**. Maximilian Nickel, Kevin Murphy, Volker Tresp, Evgeniy Gabrilovich. 2016.  [[link]](https://arxiv.org/pdf/1503.00759.pdf)
 4. **Knowledge Graph Embedding: A Survey of Approaches and Applications**. Quan Wang, Zhendong Mao, Bin Wang, Li Guo. TKDE 2017.  [[link]](http://ieeexplore.ieee.org/abstract/document/8047276/)
 #### Further reading
 1. **OpenKE** [[link]](http://openke.thunlp.org/)
 ### c. Reasoning
-1. **KG Reasoning Papers** [[link]](https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers) & PPT  [[link]](https://sites.cs.ucsb.edu/~william/papers/Part3_KB_Reasoning.pdf)
+1. **KG Reasoning paper list** [[link]](https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers) & PPT  [[link]](https://sites.cs.ucsb.edu/~william/papers/Part3_KB_Reasoning.pdf)
 
 ## 6. Information Extraction - 1 
 ### a. Part of Speech Taggin(POS Tagging)
-1. Introduction from Wikipedia [[link]](https://en.wikipedia.org/wiki/Part-of-speech_tagging)
+1. **Introduction from Wikipedia** [[link]](https://en.wikipedia.org/wiki/Part-of-speech_tagging)
 2. **Multilingual Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Models and Auxiliary Loss**. Plank2016  [[link]](https://arxiv.org/pdf/1604.05529)
-3. Blog: NLP Guide: Identifying Part of Speech Tags using Conditional Random Fields [[link]](https://medium.com/analytics-vidhya/pos-tagging-using-conditional-random-fields-92077e5eaa31)
+3. **Blog: NLP Guide: Identifying Part of Speech Tags using Conditional Random Fields** [[link]](https://medium.com/analytics-vidhya/pos-tagging-using-conditional-random-fields-92077e5eaa31)
 ### b. Sequence Labelling
-1. **Hierarchically-Refined Label Attention Network for Sequence Labeling**. Cui, Leyang  EMNLP-IJCNLP,2019  [[link]](https://arxiv.org/pdf/1908.08676)
+1. **Hierarchically-Refined Label Attention Network for Sequence Labeling**. Cui, Leyang. EMNLP-IJCNLP,2019  [[link]](https://arxiv.org/pdf/1908.08676)
 2. **End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF**. Ma X  [[link]](https://arxiv.org/pdf/1603.01354)
 3. **Comparisons of sequence labeling algorithms and extensions**. ICML2007  [[link]](http://www.cs.cornell.edu/~nhnguyen/icml07structured.pdf)
 ### c. Named Entity Recognition
 1. **Blog: Named Entity Recognition Tagging**, CS230  [[link]](https://cs230.stanford.edu/blog/namedentity/)
-2. **A survey of named entity recognition and classification**. David Nadeau, Satoshi Sekine2007  [[link]](https://nlp.cs.nyu.edu/sekine/papers/li07.pdf)
+2. **A survey of named entity recognition and classification**. David Nadeau, Satoshi Sekine. 2007  [[link]](https://nlp.cs.nyu.edu/sekine/papers/li07.pdf)
 3. **Neural Architectures for Named Entity Recognition** [[link]](https://pdfs.semanticscholar.org/0891/ed6ed64fb461bc03557b28c686f87d880c9a.pdf)
 4. **Named entity recognition with bidirectional LSTM-CNNs** [[link]](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00104)
 
 ## 7. Information Extraction - 2
 ### a. Relation Extraction
 #### Must-read papers
-1. **Relation Classification via Convolutional Deep Neural Network. Daojian Zeng, Kang Liu, Siwei Lai, Guangyou Zhou, Jun Zhao. COLING 2014**.  [[link]](http://www.aclweb.org/anthology/C14-1220)
-2. **Distant Supervision for Relation Extraction without Labeled Data**. Mike Mintz, Steven Bills, Rion Snow, Dan JurafskyACL-IJCNLP 2009 [[link]](https://www.aclweb.org/anthology/P09-1113)
-3. **Neural Relation Extraction with Selective Attention over Instances**. Yankai Lin, Shiqi Shen, Zhiyuan Liu, Huanbo Luan, Maosong SunACL 2016 [[link]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/acl2016_nre.pdf)
+1. **Relation Classification via Convolutional Deep Neural Network**. Daojian Zeng, Kang Liu, Siwei Lai, Guangyou Zhou, Jun Zhao. COLING 2014.  [[link]](http://www.aclweb.org/anthology/C14-1220)
+2. **Distant Supervision for Relation Extraction without Labeled Data**. Mike Mintz, Steven Bills, Rion Snow, Dan Jurafsky. ACL-IJCNLP 2009. [[link]](https://www.aclweb.org/anthology/P09-1113)
+3. **Neural Relation Extraction with Selective Attention over Instances**. Yankai Lin, Shiqi Shen, Zhiyuan Liu, Huanbo Luan, Maosong Sun. ACL 2016. [[link]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/acl2016_nre.pdf)
 #### Further reading
-1. paper list [[link]](https://github.com/thunlp/NREPapers)
+1. **RE paper list** [[link]](https://github.com/thunlp/NREPapers)
 ### b. Advanced Topics
-#### Event Extraction
+#### - Event Extraction
 1. **Joint Event Extraction via Structured Prediction with Global Features**. Qi Li, Heng Ji and Liang Huang. ACL 2013.
 2. **Event Extraction via Dynamic Multi-Pooling Convolutional Neural Networks**. Yubo Chen, Liheng Xu, Kang Liu, Daojian Zeng and Jun Zhao. ACL 2015.
 3. **Adversarial Training for Weakly Supervised Event Detection**. Xiaozhi Wang, Xu Han, Zhiyuan Liu, Maosong Sun and Peng Li. NAACL 2019.
-#### OpenRE 
-1. **Unsupervised open relation extraction**. Hady Elsahar, Elena Demidova, Simon Gottschalk, Christophe Gravier, and Frederique LaforestIn Proceedings of European Semantic Web Conference2017 [[link]](https://arxiv.org/abs/1801.07174)
-2. **Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data**. Ruidong Wu, Yuan Yao, Xu Han, Ruobing Xie, Zhiyuan Liu, Fen Lin, Leyu Lin, Maosong SunEMNLP 2019 [[link]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/emnlp2019_rsn.pdf)
-3. **Discrete-state variational autoencoders for joint discovery and factorization of relations**. Diego Marcheggiani and Ivan TitovTACL 2016 [[link]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiumpKG_8XnAhURPewKHS0bA_YQFjAAegQIBhAB&url=https%3A%2F%2Fwww.aclweb.org%2Fanthology%2FQ16-1017&usg=AOvVaw00Nk3Dzf54_rjbUDSpfjUC)
-#### Document-Level RE
-1. **DocRED: A Large-Scale Document-Level Relation Extraction Dataset**. Yuan Yao, Deming Ye, Peng Li, Xu Han, Yankai Lin, Zhenghao Liu, Zhiyuan Liu, Lixin Huang, Jie Zhou, Maosong SunACL 2019 [[link]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/acl2019_docred.pdf)
-2. **A Walk-based Model on Entity Graphs for Relation Extraction**. Fenia Christopoulou, Makoto Miwa, Sophia AnaniadouACL 2017 [[link]](https://www.aclweb.org/anthology/P18-2014.pdf)
-3. **Graph Neural Networks with Generated Parameters for Relation Extraction**. Hao Zhu, Yankai Lin, Zhiyuan Liu, Jie Fu, Tat-Seng Chua, Maosong SunACL 2019 [[link]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/acl2019_gnn4nre.pdf)
-#### Few-shot RE
-##### Must-read papers
-1. **FewRel: A Large-Scale Supervised Few-Shot Relation Classification Dataset with State-of-the-Art Evaluation**. Xu Han, Hao Zhu, Pengfei Yu, Ziyun Wang, Yuan Yao, Zhiyuan Liu, Maosong SunACL 2019 [[link]](https://www.aclweb.org/anthology/D18-1514.pdf)
+#### - OpenRE 
+1. **Unsupervised open relation extraction**. Hady Elsahar, Elena Demidova, Simon Gottschalk, Christophe Gravier, and Frederique Laforest. In Proceedings of European Semantic Web Conference 2017 [[link]](https://arxiv.org/abs/1801.07174)
+2. **Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data**. Ruidong Wu, Yuan Yao, Xu Han, Ruobing Xie, Zhiyuan Liu, Fen Lin, Leyu Lin, Maosong Sun. EMNLP 2019 [[link]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/emnlp2019_rsn.pdf)
+3. **Discrete-state variational autoencoders for joint discovery and factorization of relations**. Diego Marcheggiani and Ivan Titov. TACL 2016 [[link]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiumpKG_8XnAhURPewKHS0bA_YQFjAAegQIBhAB&url=https%3A%2F%2Fwww.aclweb.org%2Fanthology%2FQ16-1017&usg=AOvVaw00Nk3Dzf54_rjbUDSpfjUC)
+#### - Document-Level RE
+1. **DocRED: A Large-Scale Document-Level Relation Extraction Dataset**. Yuan Yao, Deming Ye, Peng Li, Xu Han, Yankai Lin, Zhenghao Liu, Zhiyuan Liu, Lixin Huang, Jie Zhou, Maosong Sun. ACL 2019 [[link]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/acl2019_docred.pdf)
+2. **A Walk-based Model on Entity Graphs for Relation Extraction**. Fenia Christopoulou, Makoto Miwa, Sophia Ananiadou. ACL 2017 [[link]](https://www.aclweb.org/anthology/P18-2014.pdf)
+3. **Graph Neural Networks with Generated Parameters for Relation Extraction**. Hao Zhu, Yankai Lin, Zhiyuan Liu, Jie Fu, Tat-Seng Chua, Maosong Sun. ACL 2019 [[link]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/acl2019_gnn4nre.pdf)
+#### - Few-shot RE
+1. **FewRel: A Large-Scale Supervised Few-Shot Relation Classification Dataset with State-of-the-Art Evaluation**. Xu Han, Hao Zhu, Pengfei Yu, Ziyun Wang, Yuan Yao, Zhiyuan Liu, Maosong Sun. ACL 2019 [[link]](https://www.aclweb.org/anthology/D18-1514.pdf)
 2. **Matching Networks for One Shot Learning**. Oriol Vinyals, Charles Blundell, Timothy Lillicrap, Koray Kavukcuoglu, Daan Wierstra [[link]](https://arxiv.org/abs/1606.04080)
 3. **Prototypical Networks for Few-shot Learning**. Jake Snell, Kevin Swersky, Richard SZemel [[link]](https://arxiv.org/abs/1703.05175)
-##### Further reading
-1. **FewRel 2.0: Towards More Challenging Few-Shot Relation Classification**. Tianyu Gao, Xu Han, Hao Zhu, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou. EMNLP 2019. [[link]](https://www.aclweb.org/anthology/D19-1649.pdf)
-2. **Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks**. Chelsea Finn, Pieter Abbeel, Sergey Levine. [[link]](https://arxiv.org/abs/1703.03400)
-3. **Matching the Blanks: Distributional Similarity for Relation Learnin**. Livio Baldini Soares, Nicholas FitzGerald, Jeffrey Ling, Tom Kwiatkowski. ACL 2019. [[link]](https://arxiv.org/pdf/1906.03158.pdf)
 
 ## 8. Knowledge-Guided NLP
 #### Must-read papers
-1. ERNIE: Enhanced Language Representation with Informative Entities [[link]](https://www.aclweb.org/anthology/P19-1139.pdf)
-2. **Neural natural language inference models enhanced with external knowledge**. Qian Chen, Xiaodan Zhu, Zhen-Hua Ling, Diana Inkpen, and Si WeiACL 2018 [[link]](https://www.aclweb.org/anthology/P18-1224)
-3. **Neural knowledge acquisition via mutual attention between knowledge graph and text**. Xu Han, Zhiyuan Liu, and Maosong SunAAAI 2018 [[link]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/aaai2018_jointnre.pdf)
+1. **ERNIE: Enhanced Language Representation with Informative Entities** Zhengyan Zhang, Xu Han, Zhiyuan Liu, Xin Jiang, Maosong Sun, Qun Liu. ACL 2019 [[link]](https://www.aclweb.org/anthology/P19-1139.pdf)
+2. **Neural natural language inference models enhanced with external knowledge**. Qian Chen, Xiaodan Zhu, Zhen-Hua Ling, Diana Inkpen, and Si Wei. ACL 2018 [[link]](https://www.aclweb.org/anthology/P18-1224)
+3. **Neural knowledge acquisition via mutual attention between knowledge graph and text**. Xu Han, Zhiyuan Liu, and Maosong Sun. AAAI 2018 [[link]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/aaai2018_jointnre.pdf)
 #### Further reading
 1. **Language Models as Knowledge Bases?** [[link]](https://www.aclweb.org/anthology/D19-1250.pdf)
-2. **Knowledge enhanced contextual word representations**. Matthew EPeters, Mark Neumann, Robert Logan, Roy Schwartz, Vidur Joshi, Sameer Singh, and Noah ASmithEMNLP 2019 [[link]](https://doi.org/10.18653/v1/D19-1005)
-3. **Barack’s wife hillary: Using knowledge graphs for fact-aware language modeling**. Robert Logan, Nelson FLiu, Matthew EPeters, Matt Gardner, and Sameer SinghACL 2019 [[link]](https://doi.org/10.18653/v1/P19-1598)
-4. **Knowledgeable Reader: Enhancing Cloze-style Reading Comprehension with External Commonsense Knowledge**. Todor Mihaylov and Anette FrankACL 2018 [[link]](https://www.aclweb.org/anthology/P18-1076)
-5. **Improving question answering by commonsense-based pre-training**. Wanjun Zhong, Duyu Tang, Nan Duan, Ming Zhou, Jiahai Wang, and Jian Yin2018 [[link]](https://arxiv.org/pdf/1809.03568.pdf)
-6. **Adaptive knowledge sharing in multi-task learning: Improving low-resource neural machine translation**. Poorya Zaremoodi, Wray Buntine, and Gholamreza HaffariACL 2018 [[link]](https://www.aclweb.org/anthology/P18-2104)
+2. **Knowledge enhanced contextual word representations**. Matthew EPeters, Mark Neumann, Robert Logan, Roy Schwartz, Vidur Joshi, Sameer Singh, and Noah ASmith. EMNLP 2019 [[link]](https://doi.org/10.18653/v1/D19-1005)
+3. **Barack’s wife hillary: Using knowledge graphs for fact-aware language modeling**. Robert Logan, Nelson FLiu, Matthew EPeters, Matt Gardner, and Sameer Singh. ACL 2019 [[link]](https://doi.org/10.18653/v1/P19-1598)
+4. **Knowledgeable Reader: Enhancing Cloze-style Reading Comprehension with External Commonsense Knowledge**. Todor Mihaylov and Anette Frank. ACL 2018 [[link]](https://www.aclweb.org/anthology/P18-1076)
+5. **Improving question answering by commonsense-based pre-training**. Wanjun Zhong, Duyu Tang, Nan Duan, Ming Zhou, Jiahai Wang, and Jian Yin. 2018 [[link]](https://arxiv.org/pdf/1809.03568.pdf)
+6. **Adaptive knowledge sharing in multi-task learning: Improving low-resource neural machine translation**. Poorya Zaremoodi, Wray Buntine, and Gholamreza Haffari. ACL 2018 [[link]](https://www.aclweb.org/anthology/P18-2104)
 
 ## 9. Advanced Learning Methods
 #### a. Adversarial Training
 ##### Must-read papers
-1. **Explaining and Harnessing Adversarial Examples**. Ian JGoodfellow, Jonathon Shlens, and Christian SzegedyICLR 2015 [[link]](https://arxiv.org/pdf/1412.6572.pdf))
-2. **Generative Adversarial Nets**. Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua BengioNIPS 2015 [[link]](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
-3. **Wasserstein GAN**. Martín Arjovsky, Soumith Chintala, and Léon BottouICML 2017 [[link]](https://arxiv.org/abs/1701.07875)
+1. **Explaining and Harnessing Adversarial Examples**. Ian JGoodfellow, Jonathon Shlens, and Christian Szegedy. ICLR 2015 [[link]](https://arxiv.org/pdf/1412.6572.pdf))
+2. **Generative Adversarial Nets**. Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio. NIPS 2015 [[link]](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+3. **Wasserstein GAN**. Martín Arjovsky, Soumith Chintala, and Léon Bottou. ICML 2017 [[link]](https://arxiv.org/abs/1701.07875)
 ##### Further reading
-1. **Adversarial Examples for Evaluating Reading Comprehension Systems**. Robin Jia, Percy LiangEMNLP 2017 [[link]](https://arxiv.org/pdf/1707.07328.pdf)
-2. **Certified Defenses Against Adversarial Examples**. Raghunathan, Aditi, Jacob Steinhardt, and Percy LiangICLR 2018 [[link]](https://arxiv.org/pdf/1801.09344.pdf)
-3. **Robust Neural Machine Translation with Doubly Adversarial Inputs**. Yong Cheng, Lu Jiang, and Wolfgang MachereyACL 2019 [[link]](https://www.aclweb.org/anthology/P19-1425.pdf)
+1. **Adversarial Examples for Evaluating Reading Comprehension Systems**. Robin Jia, Percy Liang. EMNLP 2017 [[link]](https://arxiv.org/pdf/1707.07328.pdf)
+2. **Certified Defenses Against Adversarial Examples**. Raghunathan, Aditi, Jacob Steinhardt, and Percy Liang. ICLR 2018 [[link]](https://arxiv.org/pdf/1801.09344.pdf)
+3. **Robust Neural Machine Translation with Doubly Adversarial Inputs**. Yong Cheng, Lu Jiang, and Wolfgang Macherey. ACL 2019 [[link]](https://www.aclweb.org/anthology/P19-1425.pdf)
 4. **Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks**. Radford Alec, Metz Luke, and Chintala SoumithICLR 2016 [[link]](https://arxiv.org/pdf/1511.06434.pdf)
-5. **Wasserstein GAN**. Martín Arjovsky, Soumith Chintala, and Léon BottouICML 2017 [[link]](https://arxiv.org/abs/1701.07875)
-6. **Improved Training of Wasserstein GANs**. Martin Arjovsky, Soumith Chintala, and Léon BottouGulrajani Ishaan, Ahmed Faruk, Arjovsky Martin, Dumoulin Vincent, and Courville Aaron CNIPS 2017 [[link]](https://arxiv.org/abs/1704.00028)
-7. **Are GANs Created Equal? A Large-scale Study**. Mario Lucic, Karol Kurach, Marcin Michalski, Sylvain Gelly, and Olivier BousquetNIPS 2018 [[link]](https://arxiv.org/pdf/1711.10337.pdf)
-8. **Unsupervised Machine Translation Using Monolingual Corpora Only**. Guillaume Lample, Alexis Conneau, Ludovic Denoyer, and Marc'Aurelio RanzatoICLR 2018 [[link]](https://arxiv.org/pdf/1711.00043.pdf;Guillaume)
-9. **Adversarial Multi-task Learning for Text Classification**. Pengfei Liu, Xipeng Qiu, and Xuanjing HuangACL 2017 [[link]](https://arxiv.org/pdf/1704.05742.pdf)
-10. **SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient**. Lantao Yu, Weinan Zhang, Jun Wang, and Yong YuAAAI 2018 [[link]](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14344/14489)
+5. **Improved Training of Wasserstein GANs**. Martin Arjovsky, Soumith Chintala, and Léon BottouGulrajani Ishaan, Ahmed Faruk, Arjovsky Martin, Dumoulin Vincent, and Courville Aaron. NIPS 2017 [[link]](https://arxiv.org/abs/1704.00028)
+6. **Are GANs Created Equal? A Large-scale Study**. Mario Lucic, Karol Kurach, Marcin Michalski, Sylvain Gelly, and Olivier Bousquet. NIPS 2018 [[link]](https://arxiv.org/pdf/1711.10337.pdf)
+7. **Unsupervised Machine Translation Using Monolingual Corpora Only**. Guillaume Lample, Alexis Conneau, Ludovic Denoyer, and Marc'Aurelio Ranzato. ICLR 2018 [[link]](https://arxiv.org/pdf/1711.00043.pdf;Guillaume)
+8. **Adversarial Multi-task Learning for Text Classification**. Pengfei Liu, Xipeng Qiu, and Xuanjing Huang. ACL 2017 [[link]](https://arxiv.org/pdf/1704.05742.pdf)
+9. **SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient**. Lantao Yu, Weinan Zhang, Jun Wang, and Yong Yu. AAAI 2018 [[link]](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14344/14489)
 #### b. Reinforcement Learning
 ##### Must-read papers
-1. **Playing atari with deep reinforcement learning**. Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin RiedmillerarXiv 2013 [[link]](https://arxiv.org/pdf/1312.5602.pdf)
-2. **Human-level control through deep reinforcement learning**. Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A Rusu, Joel Veness, Marc G Bellemare, Alex Graves, Martin Riedmiller, Andreas K Fidjeland, Georg Ostrovski, Stig Petersen, Charles Beattie, Amir Sadik, Ioannis Antonoglou, Helen King, Dharshan Kumaran, Daan Wierstra, Shane Legg, Demis HassabisNature 2015 [[link]](https://www.nature.com/articles/nature14236.pdf)
-3. **Mastering the game of go with deep neural networks and tree search**. David Silver, Aja Huang, Chris J Maddison, Arthur Guez, Laurent Sifre, George Van Den Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda Panneershelvam, Marc Lanctot, Sander Dieleman, Dominik Grewe, John Nham, Nal Kalchbrenner, Ilya Sutskever, Timothy Lillicrap, Madeleine Leach, Koray Kavukcuoglu, Thore Graepel, Demis HassabisNature 2016 [[link]](https://www.nature.com/articles/nature16961.pdf)
-4. **Reinforcement learning for relation classification from noisy data**. Jun Feng, Minlie Huang, Li Zhao, Yang Yang, Xiaoyan ZhuAAAI 2018 [[link]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/11/AAAI2018Denoising.pdf)
+1. **Playing atari with deep reinforcement learning**. Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller. 2013 [[link]](https://arxiv.org/pdf/1312.5602.pdf)
+2. **Human-level control through deep reinforcement learning**. Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A Rusu, Joel Veness, Marc G Bellemare, Alex Graves, Martin Riedmiller, Andreas K Fidjeland, Georg Ostrovski, Stig Petersen, Charles Beattie, Amir Sadik, Ioannis Antonoglou, Helen King, Dharshan Kumaran, Daan Wierstra, Shane Legg, Demis Hassabis. Nature 2015 [[link]](https://www.nature.com/articles/nature14236.pdf)
+3. **Mastering the game of go with deep neural networks and tree search**. David Silver, Aja Huang, Chris J Maddison, Arthur Guez, Laurent Sifre, George Van Den Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda Panneershelvam, Marc Lanctot, Sander Dieleman, Dominik Grewe, John Nham, Nal Kalchbrenner, Ilya Sutskever, Timothy Lillicrap, Madeleine Leach, Koray Kavukcuoglu, Thore Graepel, Demis Hassabis. Nature 2016 [[link]](https://www.nature.com/articles/nature16961.pdf)
+4. **Reinforcement learning for relation classification from noisy data**. Jun Feng, Minlie Huang, Li Zhao, Yang Yang, Xiaoyan Zhu. AAAI 2018 [[link]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/11/AAAI2018Denoising.pdf)
 ##### Further reading
-1. **Reinforced co-training**. Jiawei Wu, Lei Li, William Yang WangNAACL 2018 [[link]](http://arxiv.org/pdf/1804.06035.pdf)
-2. **Playing 20 question game with policy-based reinforcement learning**. Huang Hu, Xianchao Wu, Bingfeng Luo, Chongyang Tao, Can Xu, Wei Wu, Zhan ChenEMNLP 2018 [[link]](https://www.aclweb.org/anthology/D18-1361.pdf)
-3. **Entity-relation extraction as multi-turn question answering**. Xiaoya Li, Fan Yin, Zijun Sun, Xiayu Li, Arianna Yuan, Duo Chai, Mingxin Zhou, Jiwei LiACL 2019 [[link]](https://www.aclweb.org/anthology/P19-1129.pdf)
-4. **Language understanding for text-based games using deep reinforcement learning**. Karthik Narasimhan, Tejas D Kulkarni, Regina BarzilayEMNLP 2015 [[link]](https://www.aclweb.org/anthology/D15-1001.pdf)
-5. **Deep reinforcement learning with a natural language action space**. Ji He, Jianshu Chen, Xiaodong He, Jianfeng Gao, Lihong Li, Li Deng, Mari OstendorfACL 2016 [[link]](https://www.aclweb.org/anthology/P16-1153.pdf)
+1. **Reinforced co-training**. Jiawei Wu, Lei Li, William Yang Wang. NAACL 2018 [[link]](http://arxiv.org/pdf/1804.06035.pdf)
+2. **Playing 20 question game with policy-based reinforcement learning**. Huang Hu, Xianchao Wu, Bingfeng Luo, Chongyang Tao, Can Xu, Wei Wu, Zhan Chen. EMNLP 2018 [[link]](https://www.aclweb.org/anthology/D18-1361.pdf)
+3. **Entity-relation extraction as multi-turn question answering**. Xiaoya Li, Fan Yin, Zijun Sun, Xiayu Li, Arianna Yuan, Duo Chai, Mingxin Zhou, Jiwei Li. ACL 2019 [[link]](https://www.aclweb.org/anthology/P19-1129.pdf)
+4. **Language understanding for text-based games using deep reinforcement learning**. Karthik Narasimhan, Tejas D Kulkarni, Regina Barzilay. EMNLP 2015 [[link]](https://www.aclweb.org/anthology/D15-1001.pdf)
+5. **Deep reinforcement learning with a natural language action space**. Ji He, Jianshu Chen, Xiaodong He, Jianfeng Gao, Lihong Li, Li Deng, Mari Ostendorf. ACL 2016 [[link]](https://www.aclweb.org/anthology/P16-1153.pdf)
 #### c. Few-Shot Learning
 ##### Must-read papers
-1. **FewRel: A Large-Scale Supervised Few-Shot Relation Classification Dataset with State-of-the-Art Evaluation**. Xu Han, Hao Zhu, Pengfei Yu, Ziyun Wang, Yuan Yao, Zhiyuan Liu, Maosong SunACL 2019 [[link]](https://www.aclweb.org/anthology/D18-1514.pdf)
+1. **FewRel: A Large-Scale Supervised Few-Shot Relation Classification Dataset with State-of-the-Art Evaluation**. Xu Han, Hao Zhu, Pengfei Yu, Ziyun Wang, Yuan Yao, Zhiyuan Liu, Maosong Sun. ACL 2019 [[link]](https://www.aclweb.org/anthology/D18-1514.pdf)
 2. **Matching Networks for One Shot Learning**. Oriol Vinyals, Charles Blundell, Timothy Lillicrap, Koray Kavukcuoglu, Daan Wierstra [[link]](https://arxiv.org/abs/1606.04080)
 3. **Prototypical Networks for Few-shot Learning**. Jake Snell, Kevin Swersky, Richard SZemel [[link]](https://arxiv.org/abs/1703.05175)
 ##### Further reading
-1. **FewRel 2.0: Towards More Challenging Few-Shot Relation Classification**. Tianyu Gao, Xu Han, Hao Zhu, Zhiyuan Liu, Peng Li, Maosong Sun, Jie ZhouEMNLP 2019 [[link]](https://www.aclweb.org/anthology/D19-1649.pdf)
+1. **FewRel 2.0: Towards More Challenging Few-Shot Relation Classification**. Tianyu Gao, Xu Han, Hao Zhu, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou. EMNLP 2019 [[link]](https://www.aclweb.org/anthology/D19-1649.pdf)
 2. **Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks**. Chelsea Finn, Pieter Abbeel, Sergey Levine [[link]](https://arxiv.org/abs/1703.03400)
-3. **Matching the Blanks: Distributional Similarity for Relation Learnin**. Livio Baldini Soares, Nicholas FitzGerald, Jeffrey Ling, Tom KwiatkowskiACL 2019 [[link]](https://arxiv.org/pdf/1906.03158.pdf)
+3. **Matching the Blanks: Distributional Similarity for Relation Learnin**. Livio Baldini Soares, Nicholas FitzGerald, Jeffrey Ling, Tom Kwiatkowski. ACL 2019 [[link]](https://arxiv.org/pdf/1906.03158.pdf)
 
 ## 10. Information Retrieval
 #### Must-read papers
 1. **PACRR: A Position-Aware Neural IR Model for Relevance Matching**. EMNLP 2017 [[link]](https://arxiv.org/pdf/1704.03940.pdf)
 2. **Entity-Duet Neural Ranking: Understanding the Role of Knowledge Graph Semantics in Neural Information Retrieval**. ACL 2018 [[link]](https://arxiv.org/abs/1805.07591)
-3. **A Deep Look into Neural Ranking Models for Information Retrieval**. Arxiv 2019 [[link]](https://arxiv.org/pdf/1903.06902.pdf)
+3. **A Deep Look into Neural Ranking Models for Information Retrieval**. 2019 [[link]](https://arxiv.org/pdf/1903.06902.pdf)
 4. **Selective Weak Supervision for Neural Information Retrieval**. WWW 2020 [[link]](https://arxiv.org/abs/2001.10382)
 #### Further reading
 1. **Explicit Semantic Ranking for Academic Search via Knowledge Graph Embedding**. WWW 2017 [[link]](https://dl.acm.org/doi/abs/10.1145/3038912.3052558)
@@ -224,23 +218,23 @@ Further reading
 
 ## 13. Discourse Analysis
 #### a. Reference in Language & Coreference Resolution
-1. **Unsupervised Models for Coreference Resolution**  [[link]](https://www.aclweb.org/anthology/D08-1067.pdf) EMNLP 2008.
-2. **End-to-end Neural Coreference Resolution** [[link]](https://arxiv.org/abs/1707.07045v2) EMNLP 2017
-3. **Coreference Resolution as Query-based Span Prediction arxiv 2019**.  [[link]](https://github.com/ShannonAI/CorefQA)
+1. **Unsupervised Models for Coreference Resolution**.  EMNLP 2008. [[link]](https://www.aclweb.org/anthology/D08-1067.pdf) 
+2. **End-to-end Neural Coreference Resolution**. EMNLP 2017. [[link]](https://arxiv.org/abs/1707.07045v2) 
+3. **Coreference Resolution as Query-based Span Prediction**. 2019.  [[link]](https://github.com/ShannonAI/CorefQA)
 #### b. Coherence & Discourse Relation Classification
 1. **Implicit Discourse Relation Classification via Multi-Task Neural Networks**. AAAI 2016  [[link]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11831/12018)
 2. **Implicit Discourse Relation Detection via a Deep Architecture with Gated Relevance Network**. ACL 2016 [[link]](https://www.aclweb.org/anthology/P16-1163.pdf)
 3. **Employing the Correspondence of Relations and Connectives to Identify Implicit Discourse Relations via Label Embeddings**. ACL 2019 [[link]](https://www.aclweb.org/anthology/P19-1411.pdf)
 4. **Linguistic properties matter for implicit discourse relation recognition: Combining semantic interaction, topic continuity and attribution**. AAAI 2018 [[link]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17260/16015)
 #### c. Context Modeling and Conversation
-1. **A Survey on Dialogue Systems: Recent Advances and New Frontiers**. Hongshen Chen, Xiaorui Liu, Dawei Yin, Jiliang Tang2018 [[link]](https://arxiv.org/abs/1711.01731)
-2. **A Diversity-Promoting Objective Function for Neural Conversation Models**. Jiwei Li, Michel Galley, Chris Brockett, Jianfeng Gao, Bill DolanNAACL 2016 [[link]](https://www.aclweb.org/anthology/N16-1014/)
-3. **A Persona-Based Neural Conversation Model**. Jiwei Li, Michel Galley, Chris Brockett, Georgios PSpithourakis, Jianfeng Gao, Bill DolanACL 2016 [[link]](https://arxiv.org/abs/1603.06155)
+1. **A Survey on Dialogue Systems: Recent Advances and New Frontiers**. Hongshen Chen, Xiaorui Liu, Dawei Yin, Jiliang Tang. 2018 [[link]](https://arxiv.org/abs/1711.01731)
+2. **A Diversity-Promoting Objective Function for Neural Conversation Models**. Jiwei Li, Michel Galley, Chris Brockett, Jianfeng Gao, Bill Dolan. NAACL 2016 [[link]](https://www.aclweb.org/anthology/N16-1014/)
+3. **A Persona-Based Neural Conversation Model**. Jiwei Li, Michel Galley, Chris Brockett, Georgios PSpithourakis, Jianfeng Gao, Bill Dolan. ACL 2016 [[link]](https://arxiv.org/abs/1603.06155)
 
 ## 14. Interdiscipline
 #### a. Cognitive Linguistics and NLP
 1. **Computational Cognitive Linguistics** [[link]](https://www.aclweb.org/anthology/C04-1160.pdf)
-2. **Ten Lectures on Cognitive Linguistics by George Lakoff** [link (access using Tsinghua Laboratory Account)](https://brill.com/view/title/54941?language=en)
+2. **Ten Lectures on Cognitive Linguistics by George Lakoff** [[link (access using Tsinghua Laboratory Account)]](https://brill.com/view/title/54941?language=en)
 #### b. Psycholinguistics and NLP
 1. **A Computational Psycholinguistic Model of Natural Language Processing** [[link]](https://www.aaai.org/Papers/FLAIRS/2004/Flairs04-041.pdf)
 2. **Slides of the Cambridge NLP course** [[link]](https://www.cl.cam.ac.uk/teaching/1314/NLP/slides11.pdf)
