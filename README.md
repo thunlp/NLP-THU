@@ -97,9 +97,9 @@ Further reading
 1. **RE paper list** [[link]](https://github.com/thunlp/NREPapers)
 ### b. Advanced Topics
 #### - Event Extraction
-1. **Joint Event Extraction via Structured Prediction with Global Features**. Qi Li, Heng Ji and Liang Huang. ACL 2013.
-2. **Event Extraction via Dynamic Multi-Pooling Convolutional Neural Networks**. Yubo Chen, Liheng Xu, Kang Liu, Daojian Zeng and Jun Zhao. ACL 2015.
-3. **Adversarial Training for Weakly Supervised Event Detection**. Xiaozhi Wang, Xu Han, Zhiyuan Liu, Maosong Sun and Peng Li. NAACL 2019.
+1. **Joint Event Extraction via Structured Prediction with Global Features**. Qi Li, Heng Ji and Liang Huang. ACL 2013. [[link]](https://www.aclweb.org/anthology/P13-1008/)
+2. **Event Extraction via Dynamic Multi-Pooling Convolutional Neural Networks**. Yubo Chen, Liheng Xu, Kang Liu, Daojian Zeng and Jun Zhao. ACL 2015. [[link]](https://www.aclweb.org/anthology/P15-1017/)
+3. **Adversarial Training for Weakly Supervised Event Detection**. Xiaozhi Wang, Xu Han, Zhiyuan Liu, Maosong Sun and Peng Li. NAACL 2019. [[link]](https://www.aclweb.org/anthology/N19-1105/)
 #### - OpenRE 
 1. **Unsupervised open relation extraction**. Hady Elsahar, Elena Demidova, Simon Gottschalk, Christophe Gravier, and Frederique Laforest. In Proceedings of European Semantic Web Conference 2017 [[link]](https://arxiv.org/abs/1801.07174)
 2. **Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data**. Ruidong Wu, Yuan Yao, Xu Han, Ruobing Xie, Zhiyuan Liu, Fen Lin, Leyu Lin, Maosong Sun. EMNLP 2019 [[link]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/emnlp2019_rsn.pdf)
