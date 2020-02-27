@@ -58,9 +58,8 @@ This repository provides reading materials recommended by NLP-THU Course.
 ## 5. Knowledge Graph
 ### a. Introduction to KG
 1. **Towards a Definition of Knowledge Graphs**. Lisa Ehrlinger, Wolfram Wöß [[link]](https://www.researchgate.net/profile/Wolfram_Woess/publication/323316736_Towards_a_Definition_of_Knowledge_Graphs/links/5a8d6e8f0f7e9b27c5b4b1c3/Towards-a-Definition-of-Knowledge-Graphs.pdf)
-Further reading
-1. **KG Definition & History Wiki** [[link]](https://en.wikipedia.org/wiki/Knowledge_Graph)
-2. **Semantic Network** [[link]](https://en.wikipedia.org/wiki/Semantic_network)
+2. **KG Definition & History Wiki** [[link]](https://en.wikipedia.org/wiki/Knowledge_Graph)
+3. **Semantic Network** [[link]](https://en.wikipedia.org/wiki/Semantic_network)
 ### b. Knowledge Representation Learning
 #### Must-read papers
 1. **KRL paper list** [[link]](https://github.com/thunlp/KRLPapers)
