@@ -14,10 +14,10 @@ This repository provides reading materials recommended by NLP-THU Course.
 2. **Glove: Global Vectors for Word Representation**. Jeffrey Pennington, Richard Socher and Christopher D. Manning. EMNLP 2014. [[link]](https://nlp.stanford.edu/pubs/glove.pdf)
 3. **Deep Contextualized Word Representations**. Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee and Luke Zettlemoyer. NAACL 2018. [[link]](https://arxiv.org/pdf/1802.05365.pdf)
 
-### b. Semantic Composition
-1. **Vector-based Models of Semantic Composition**. ACL 2008 [[link]](https://www.aclweb.org/anthology/P08-1028.pdf)
-2. **Deep learning for semantic compositionality**. ACL 2017 [[link]](https://www.aclweb.org/anthology/D13-1170.pdf)
-### c. Neural Network
+% ### b. Semantic Composition
+% 1. **Vector-based Models of Semantic Composition**. ACL 2008 [[link]](https://www.aclweb.org/anthology/P08-1028.pdf)
+% 2. **Deep learning for semantic compositionality**. ACL 2017 [[link]](https://www.aclweb.org/anthology/D13-1170.pdf)
+### b. Neural Network
 1. **ImageNet Classification with Deep Convolutional Neural Networks**. NIPS 2012  [[link]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 2. **Convolutional Neural Networks for Sentence Classification**. EMNLP 2014 [[link]](https://www.aclweb.org/anthology/D14-1181.pdf)
 3. **Long short-term memory**. MIT Press 1997 [[link]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.676.4320&rep=rep1&type=pdf)
