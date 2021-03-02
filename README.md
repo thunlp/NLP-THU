@@ -11,6 +11,7 @@ This repository provides reading materials recommended by NLP-THU Course.
 1. **Linguistic Regularities in Continuous Space Word Representations**. Tomas Mikolov, Wen-tau Yih and Geoffrey Zweig. NAACL 2013. [[link]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/rvecs.pdf)
 2. **Glove: Global Vectors for Word Representation**. Jeffrey Pennington, Richard Socher and Christopher D. Manning. EMNLP 2014. [[link]](https://nlp.stanford.edu/pubs/glove.pdf)
 3. **Deep Contextualized Word Representations**. Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee and Luke Zettlemoyer. NAACL 2018. [[link]](https://arxiv.org/pdf/1802.05365.pdf)
+4. **Parallel Distributed Processing**. Jerome A. Feldman, Patrick J. Hayes and David E. Rumelhart. 1986.
 
 ### b. RNN & CNN
 1. **ImageNet Classification with Deep Convolutional Neural Networks**. NIPS 2012  [[link]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
