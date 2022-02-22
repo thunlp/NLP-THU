@@ -72,19 +72,19 @@ This repository provides reading materials recommended by NLP-THU Course.
 1. **KG Reasoning paper list** [[link]](https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers) & PPT  [[link]](https://sites.cs.ucsb.edu/~william/papers/Part3_KB_Reasoning.pdf)
 
 ## 6. Information Extraction - 1 
-### a. Part of Speech Taggin(POS Tagging)
-1. **Introduction from Wikipedia** [[link]](https://en.wikipedia.org/wiki/Part-of-speech_tagging)
-2. **Multilingual Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Models and Auxiliary Loss**. Plank2016  [[link]](https://arxiv.org/pdf/1604.05529)
-3. **Blog: NLP Guide: Identifying Part of Speech Tags using Conditional Random Fields** [[link]](https://medium.com/analytics-vidhya/pos-tagging-using-conditional-random-fields-92077e5eaa31)
+### a. Part of Speech Tagging (POS Tagging)
+1. **Multilingual Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Models and Auxiliary Loss**. Plank Barbara, Anders Søgaard, Yoav Goldberg. ACL 2016. [[link]](https://arxiv.org/pdf/1604.05529)
+2. **Blog: NLP Guide: Identifying Part of Speech Tags using Conditional Random Fields** [[link]](https://medium.com/analytics-vidhya/pos-tagging-using-conditional-random-fields-92077e5eaa31)
+
 ### b. Sequence Labelling
-1. **Hierarchically-Refined Label Attention Network for Sequence Labeling**. Cui, Leyang. EMNLP-IJCNLP,2019  [[link]](https://arxiv.org/pdf/1908.08676)
-2. **End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF**. Ma X  [[link]](https://arxiv.org/pdf/1603.01354)
-3. **Comparisons of sequence labeling algorithms and extensions**. ICML2007  [[link]](http://www.cs.cornell.edu/~nhnguyen/icml07structured.pdf)
+1. **Hierarchically-Refined Label Attention Network for Sequence Labeling**. Cui Leyang, Yue Zhang. EMNLP-IJCNLP 2019. [[link]](https://arxiv.org/pdf/1908.08676)
+2. **End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF**. Ma Xuezhe, Eduard Hovy. ACL 2016. [[link]](https://arxiv.org/pdf/1603.01354)
+3. **Comparisons of Sequence Labeling Algorithms and Extensions**. Nguyen Nam, Yunsong Guo. ICML 2007.  [[link]](http://www.cs.cornell.edu/~nhnguyen/icml07structured.pdf)
 ### c. Named Entity Recognition
-1. **Blog: Named Entity Recognition Tagging**, CS230  [[link]](https://cs230.stanford.edu/blog/namedentity/)
-2. **A survey of named entity recognition and classification**. David Nadeau, Satoshi Sekine. 2007  [[link]](https://nlp.cs.nyu.edu/sekine/papers/li07.pdf)
-3. **Neural Architectures for Named Entity Recognition** [[link]](https://pdfs.semanticscholar.org/0891/ed6ed64fb461bc03557b28c686f87d880c9a.pdf)
-4. **Named entity recognition with bidirectional LSTM-CNNs** [[link]](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00104)
+1. **Blog: Named Entity Recognition Tagging**. CS230  [[link]](https://cs230.stanford.edu/blog/namedentity/)
+2. **A Survey of Named Entity Recognition and Classification**. David Nadeau, Satoshi Sekine. Computational Linguistics 2007.  [[link]](https://nlp.cs.nyu.edu/sekine/papers/li07.pdf)
+3. **Neural Architectures for Named Entity Recognition**. Lample Guillaume, et al. NAACL 2016. [[link]](https://pdfs.semanticscholar.org/0891/ed6ed64fb461bc03557b28c686f87d880c9a.pdf)
+4. **Named Entity Recognition with Bidirectional LSTM-CNNs**. Jason P. C. Chiu, Eric Nichols. TACL 2016. [[link]](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00104)
 
 ## 7. Information Extraction - 2
 ### a. Relation Extraction
@@ -99,18 +99,21 @@ This repository provides reading materials recommended by NLP-THU Course.
 1. **Joint Event Extraction via Structured Prediction with Global Features**. Qi Li, Heng Ji and Liang Huang. ACL 2013. [[link]](https://www.aclweb.org/anthology/P13-1008/)
 2. **Event Extraction via Dynamic Multi-Pooling Convolutional Neural Networks**. Yubo Chen, Liheng Xu, Kang Liu, Daojian Zeng and Jun Zhao. ACL 2015. [[link]](https://www.aclweb.org/anthology/P15-1017/)
 3. **Adversarial Training for Weakly Supervised Event Detection**. Xiaozhi Wang, Xu Han, Zhiyuan Liu, Maosong Sun and Peng Li. NAACL 2019. [[link]](https://www.aclweb.org/anthology/N19-1105/)
+4. **CLEVE: Contrastive Pre-training for Event Extraction**. Ziqi Wang, Xiaozhi Wang, Xu Han, Yankai Lin, Lei Hou, Zhiyuan Liu, Peng Li, Juanzi Li, Jie Zhou. ACL 2021. [[link]](https://bakser.github.io/files/ACL21-CLEVE/CLEVE.pdf)
 #### - OpenRE 
-1. **Unsupervised open relation extraction**. Hady Elsahar, Elena Demidova, Simon Gottschalk, Christophe Gravier, and Frederique Laforest. In Proceedings of European Semantic Web Conference 2017 [[link]](https://arxiv.org/abs/1801.07174)
-2. **Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data**. Ruidong Wu, Yuan Yao, Xu Han, Ruobing Xie, Zhiyuan Liu, Fen Lin, Leyu Lin, Maosong Sun. EMNLP 2019 [[link]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/emnlp2019_rsn.pdf)
-3. **Discrete-state variational autoencoders for joint discovery and factorization of relations**. Diego Marcheggiani and Ivan Titov. TACL 2016 [[link]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiumpKG_8XnAhURPewKHS0bA_YQFjAAegQIBhAB&url=https%3A%2F%2Fwww.aclweb.org%2Fanthology%2FQ16-1017&usg=AOvVaw00Nk3Dzf54_rjbUDSpfjUC)
+1. **Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data**. Ruidong Wu, Yuan Yao, Xu Han, Ruobing Xie, Zhiyuan Liu, Fen Lin, Leyu Lin, Maosong Sun. EMNLP 2019. [[link]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/emnlp2019_rsn.pdf)
+2. **Discrete-state Variational Autoencoders for Joint Discovery and Factorization of Relations**. Diego Marcheggiani and Ivan Titov. TACL 2016. [[link]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiumpKG_8XnAhURPewKHS0bA_YQFjAAegQIBhAB&url=https%3A%2F%2Fwww.aclweb.org%2Fanthology%2FQ16-1017&usg=AOvVaw00Nk3Dzf54_rjbUDSpfjUC)
+3. **Open Hierarchical Relation Extraction**. Kai Zhang, Yuan Yao, Ruobing Xie, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin, Maosong Sun. NAACL 2021. [[link]](https://aclanthology.org/2021.naacl-main.452/)
 #### - Document-Level RE
-1. **DocRED: A Large-Scale Document-Level Relation Extraction Dataset**. Yuan Yao, Deming Ye, Peng Li, Xu Han, Yankai Lin, Zhenghao Liu, Zhiyuan Liu, Lixin Huang, Jie Zhou, Maosong Sun. ACL 2019 [[link]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/acl2019_docred.pdf)
-2. **A Walk-based Model on Entity Graphs for Relation Extraction**. Fenia Christopoulou, Makoto Miwa, Sophia Ananiadou. ACL 2017 [[link]](https://www.aclweb.org/anthology/P18-2014.pdf)
-3. **Graph Neural Networks with Generated Parameters for Relation Extraction**. Hao Zhu, Yankai Lin, Zhiyuan Liu, Jie Fu, Tat-Seng Chua, Maosong Sun. ACL 2019 [[link]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/acl2019_gnn4nre.pdf)
+1. **DocRED: A Large-Scale Document-Level Relation Extraction Dataset**. Yuan Yao, Deming Ye, Peng Li, Xu Han, Yankai Lin, Zhenghao Liu, Zhiyuan Liu, Lixin Huang, Jie Zhou, Maosong Sun. ACL 2019. [[link]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/acl2019_docred.pdf)
+2. **A Walk-based Model on Entity Graphs for Relation Extraction**. Fenia Christopoulou, Makoto Miwa, Sophia Ananiadou. ACL 2017. [[link]](https://www.aclweb.org/anthology/P18-2014.pdf)
+3. **Graph Neural Networks with Generated Parameters for Relation Extraction**. Hao Zhu, Yankai Lin, Zhiyuan Liu, Jie Fu, Tat-Seng Chua, Maosong Sun. ACL 2019. [[link]](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/acl2019_gnn4nre.pdf)
+4. **Reasoning with Latent Structure Refinement for Document-Level Relation Extraction**. Guoshun Nan, Zhijiang Guo, Ivan Sekulić, Wei Lu. ACL 2020. [[link]](https://arxiv.org/abs/2005.06312)
 #### - Few-shot RE
 1. **FewRel: A Large-Scale Supervised Few-Shot Relation Classification Dataset with State-of-the-Art Evaluation**. Xu Han, Hao Zhu, Pengfei Yu, Ziyun Wang, Yuan Yao, Zhiyuan Liu, Maosong Sun. ACL 2019 [[link]](https://www.aclweb.org/anthology/D18-1514.pdf)
 2. **Matching Networks for One Shot Learning**. Oriol Vinyals, Charles Blundell, Timothy Lillicrap, Koray Kavukcuoglu, Daan Wierstra [[link]](https://arxiv.org/abs/1606.04080)
 3. **Prototypical Networks for Few-shot Learning**. Jake Snell, Kevin Swersky, Richard SZemel [[link]](https://arxiv.org/abs/1703.05175)
+4. **Meta-Information Guided Meta-Learning for Few-Shot Relation Classification**. Bowen Dong, Yuan Yao, Ruobing Xie, Tianyu Gao, Xu Han, Zhiyuan Liu, Fen Lin, Leyu Lin, Maosong Sun. COLING 2020. [[link]](https://aclanthology.org/2020.coling-main.140/)
 
 ## 8. Knowledge-Guided NLP
 #### Must-read papers
@@ -217,14 +220,14 @@ This repository provides reading materials recommended by NLP-THU Course.
 
 ## 13. Discourse Analysis
 #### a. Reference in Language & Coreference Resolution
-1. **Unsupervised Models for Coreference Resolution**.  EMNLP 2008. [[link]](https://www.aclweb.org/anthology/D08-1067.pdf) 
-2. **End-to-end Neural Coreference Resolution**. EMNLP 2017. [[link]](https://arxiv.org/abs/1707.07045v2) 
-3. **Coreference Resolution as Query-based Span Prediction**. 2019.  [[link]](https://github.com/ShannonAI/CorefQA)
+1. **Unsupervised Models for Coreference Resolution**. Vincent Ng.  EMNLP 2008. [[link]](https://www.aclweb.org/anthology/D08-1067.pdf) 
+2. **End-to-end Neural Coreference Resolution**. Kenton Lee, Luheng He, Mike Lewis, Luke Zettlemoyer. EMNLP 2017. [[link]](https://arxiv.org/abs/1707.07045v2) 
+3. **Coreference Resolution as Query-based Span Prediction**. Wei Wu, Fei Wang, Arianna Yuan, Fei Wu, Jiwei Li. ACL 2020.  [[link]](https://github.com/ShannonAI/CorefQA)
 #### b. Coherence & Discourse Relation Classification
-1. **Implicit Discourse Relation Classification via Multi-Task Neural Networks**. AAAI 2016  [[link]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11831/12018)
-2. **Implicit Discourse Relation Detection via a Deep Architecture with Gated Relevance Network**. ACL 2016 [[link]](https://www.aclweb.org/anthology/P16-1163.pdf)
-3. **Employing the Correspondence of Relations and Connectives to Identify Implicit Discourse Relations via Label Embeddings**. ACL 2019 [[link]](https://www.aclweb.org/anthology/P19-1411.pdf)
-4. **Linguistic properties matter for implicit discourse relation recognition: Combining semantic interaction, topic continuity and attribution**. AAAI 2018 [[link]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17260/16015)
+1. **Implicit Discourse Relation Classification via Multi-Task Neural Networks**. Yang Liu, Sujian Li, Xiaodong Zhang, Zhifang Sui. AAAI 2016. [[link]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11831/12018)
+2. **Implicit Discourse Relation Detection via a Deep Architecture with Gated Relevance Network**. Jifan Chen, Qi Zhang, Pengfei Liu, Xipeng Qiu, Xuanjing Huang. ACL 2016. [[link]](https://www.aclweb.org/anthology/P16-1163.pdf)
+3. **Employing the Correspondence of Relations and Connectives to Identify Implicit Discourse Relations via Label Embeddings**. Linh The Nguyen, Ngo Van Linh, Khoat Than, Thien Huu Nguyen. ACL 2019. [[link]](https://www.aclweb.org/anthology/P19-1411.pdf)
+4. **Linguistic Properties Matter for Implicit Discourse Relation Recognition: Combining Semantic Interaction, Topic Continuity and Attribution**. Wenqiang Lei, Yuanxin Xiang, Yuwei Wang, Qian Zhong, Meichun Liu, Min-Yen Kan. AAAI 2018. [[link]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17260/16015)
 #### c. Context Modeling and Conversation
 1. **A Survey on Dialogue Systems: Recent Advances and New Frontiers**. Hongshen Chen, Xiaorui Liu, Dawei Yin, Jiliang Tang. 2018 [[link]](https://arxiv.org/abs/1711.01731)
 2. **A Diversity-Promoting Objective Function for Neural Conversation Models**. Jiwei Li, Michel Galley, Chris Brockett, Jianfeng Gao, Bill Dolan. NAACL 2016 [[link]](https://www.aclweb.org/anthology/N16-1014/)
