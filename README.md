@@ -74,7 +74,7 @@ This repository provides reading materials recommended by NLP-THU Course.
 ## 6. Information Extraction - 1 
 ### a. Part of Speech Tagging (POS Tagging)
 1. **Multilingual Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Models and Auxiliary Loss**. Plank Barbara, Anders Søgaard, Yoav Goldberg. ACL 2016. [[link]](https://arxiv.org/pdf/1604.05529)
-2. **Blog: NLP Guide: Identifying Part of Speech Tags using Conditional Random Fields** [[link]](https://medium.com/analytics-vidhya/pos-tagging-using-conditional-random-fields-92077e5eaa31)
+2. **Blog: NLP Guide: Identifying Part of Speech Tags using Conditional Random Fields**. [[link]](https://medium.com/analytics-vidhya/pos-tagging-using-conditional-random-fields-92077e5eaa31)
 
 ### b. Sequence Labelling
 1. **Hierarchically-Refined Label Attention Network for Sequence Labeling**. Cui Leyang, Yue Zhang. EMNLP-IJCNLP 2019. [[link]](https://arxiv.org/pdf/1908.08676)
@@ -229,9 +229,9 @@ This repository provides reading materials recommended by NLP-THU Course.
 3. **Employing the Correspondence of Relations and Connectives to Identify Implicit Discourse Relations via Label Embeddings**. Linh The Nguyen, Ngo Van Linh, Khoat Than, Thien Huu Nguyen. ACL 2019. [[link]](https://www.aclweb.org/anthology/P19-1411.pdf)
 4. **Linguistic Properties Matter for Implicit Discourse Relation Recognition: Combining Semantic Interaction, Topic Continuity and Attribution**. Wenqiang Lei, Yuanxin Xiang, Yuwei Wang, Qian Zhong, Meichun Liu, Min-Yen Kan. AAAI 2018. [[link]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17260/16015)
 #### c. Context Modeling and Conversation
-1. **A Survey on Dialogue Systems: Recent Advances and New Frontiers**. Hongshen Chen, Xiaorui Liu, Dawei Yin, Jiliang Tang. 2018 [[link]](https://arxiv.org/abs/1711.01731)
-2. **A Diversity-Promoting Objective Function for Neural Conversation Models**. Jiwei Li, Michel Galley, Chris Brockett, Jianfeng Gao, Bill Dolan. NAACL 2016 [[link]](https://www.aclweb.org/anthology/N16-1014/)
-3. **A Persona-Based Neural Conversation Model**. Jiwei Li, Michel Galley, Chris Brockett, Georgios PSpithourakis, Jianfeng Gao, Bill Dolan. ACL 2016 [[link]](https://arxiv.org/abs/1603.06155)
+1. **A Survey on Dialogue Systems: Recent Advances and New Frontiers**. Hongshen Chen, Xiaorui Liu, Dawei Yin, Jiliang Tang. 2018. [[link]](https://arxiv.org/abs/1711.01731)
+2. **A Diversity-Promoting Objective Function for Neural Conversation Models**. Jiwei Li, Michel Galley, Chris Brockett, Jianfeng Gao, Bill Dolan. NAACL 2016. [[link]](https://www.aclweb.org/anthology/N16-1014/)
+3. **A Persona-Based Neural Conversation Model**. Jiwei Li, Michel Galley, Chris Brockett, Georgios PSpithourakis, Jianfeng Gao, Bill Dolan. ACL 2016. [[link]](https://arxiv.org/abs/1603.06155)
 
 ## 14. Interdiscipline
 #### a. Cognitive Linguistics and NLP
