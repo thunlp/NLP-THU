@@ -23,26 +23,27 @@ This repository provides reading materials recommended by NLP-THU Course.
 ## 3. Seq2Seq Modeling
 ### a. Machine Translation
 #### Must-read Papers
-1. **The Mathematics of Statistical Machine Translation: Parameter Estimation**. Peter EBrown, Stephen ADella Pietra, Vincent JDella Pietra, and Robert LMercer. Computational Linguistics 1993 [[link]](http://aclweb.org/anthology/J93-2003)
-2. **(Seq2seq) Sequence to Sequence Learning with Neural Networks**. Ilya Sutskever, Oriol Vinyals, and Quoc VLe. NIPS 2014 [[link]](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
-3. **(BLEU) BLEU: a Method for Automatic Evaluation of Machine Translation**. Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing Zhu. ACL 2002 [[link]](http://aclweb.org/anthology/P02-1040)
+1. **The Mathematics of Statistical Machine Translation: Parameter Estimation**. Peter EBrown, Stephen ADella Pietra, Vincent JDella Pietra, and Robert LMercer. Computational Linguistics 1993. [[link]](http://aclweb.org/anthology/J93-2003)
+2. **(Seq2seq) Sequence to Sequence Learning with Neural Networks**. Ilya Sutskever, Oriol Vinyals, and Quoc VLe. NIPS 2014. [[link]](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+3. **(BLEU) BLEU: a Method for Automatic Evaluation of Machine Translation**. Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing Zhu. ACL 2002. [[link]](http://aclweb.org/anthology/P02-1040)
 #### Further Reading
-1. **Statistical Phrase-Based Translation**. Philipp Koehn, Franz JOch, and Daniel Marcu. NAACL 2003 [[link]](http://aclweb.org/anthology/N03-1017)
-2. **Hierarchical Phrase-Based Translation**. David Chiang. Computational Linguistics 2007  [[link]](http://aclweb.org/anthology/J07-2003)
-3. **(Beam Search) Beam Search Strategies for Neural Machine Translation**. Markus Freitag and Yaser Al-Onaizan. 2017 [[link]](http://aclweb.org/anthology/W17-3207)
-4. **MT paper list**.  [[link]](https://github.com/THUNLP-MT/MT-Reading-List)
-5. **THUMT toolkit**.  [[link]](https://github.com/THUNLP-MT/THUMT)
+1. **Statistical Phrase-Based Translation**. Philipp Koehn, Franz JOch, and Daniel Marcu. NAACL 2003. [[link]](http://aclweb.org/anthology/N03-1017)
+2. **Hierarchical Phrase-Based Translation**. David Chiang. Computational Linguistics 2007.  [[link]](http://aclweb.org/anthology/J07-2003)
+3. **(Beam Search) Beam Search Strategies for Neural Machine Translation**. Markus Freitag and Yaser Al-Onaizan. Workshop on Neural Machine Translation 2017 [[link]](http://aclweb.org/anthology/W17-3207)
+4. **Visualizing and Understanding Neural Machine Translation**. Yanzhuo Ding, Yang Liu, Huanbo Luan, and Maosong Sun. ACL 2017 [[link]](https://nlp.csai.tsinghua.edu.cn/~ly/papers/acl2017_dyz.pdf)
+5. **MT paper list**.  [[link]](https://github.com/THUNLP-MT/MT-Reading-List)
+6. **THUMT toolkit**.  [[link]](https://github.com/THUNLP-MT/THUMT)
 ### b. Attention
 1. **Introduction to attention**.  [[link]](https://ruder.io/deep-learning-nlp-best-practices/index.html#attention)
-2. **Neural Machine Translation by Jointly Learning to Align and Translate**. Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio. ICLR 2015 [[link]](https://arxiv.org/pdf/1409.0473.pdf)
+2. **Neural Machine Translation by Jointly Learning to Align and Translate**. Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio. ICLR 2015. [[link]](https://arxiv.org/pdf/1409.0473.pdf)
 ### c. Transformer
 #### Must-read Papers
-1. **(Transformer) Attention is All You Need**. Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan NGomez, Lukasz Kaiser, and Illia Polosukhin. NIPS 2017 [[link]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
-2. **(BPE) Neural Machine Translation of Rare Words with Subword Units**. Rico Sennrich, Barry Haddow, and Alexandra Birch. ACL 2016 [[link]](https://arxiv.org/pdf/1508.07909.pdf)
+1. **(Transformer) Attention is All You Need**. Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan NGomez, Lukasz Kaiser, and Illia Polosukhin. NIPS 2017. [[link]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
+2. **(BPE) Neural Machine Translation of Rare Words with Subword Units**. Rico Sennrich, Barry Haddow, and Alexandra Birch. ACL 2016. [[link]](https://arxiv.org/pdf/1508.07909.pdf)
 #### Further Reading
 1. **Illustrated Transformer**.  [[link]](http://jalammar.github.io/illustrated-transformer/)
-2. **Layer normalization. Ba, Jimmy Lei, Jamie Ryan Kiros, and Geoffrey E**. Hinton. 2016 [[link]](https://arxiv.org/abs/1607.06450)
-3. **Deep residual learning for image recognition**. Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun. CVPR 2016 [[link]](https://arxiv.org/abs/1512.03385)
+2. **Layer normalization**. Ba, Jimmy Lei, Jamie Ryan Kiros, and Geoffrey E. Hinton. 2016. [[link]](https://arxiv.org/abs/1607.06450)
+3. **BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension**. Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Ves Stoyanov, and Luke Zettlemoyer. ACL 2020. [[link]](https://aclanthology.org/2020.acl-main.703.pdf)
 
 ## 4. Pre-Trained Language Models
 ### Must-read papers
@@ -63,14 +64,18 @@ This repository provides reading materials recommended by NLP-THU Course.
 ### b. Knowledge Representation Learning
 #### Must-read papers
 1. **KRL paper list** [[link]](https://github.com/thunlp/KRLPapers)
-2. **Knowledge Representation Learning: A Review**. (In Chinese) Zhiyuan Liu, Maosong Sun, Yankai Lin, Ruobing Xie. 计算机研究与发展 2016.  [[link]](http://crad.ict.ac.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=3099)
-3. **A Review of Relational Machine Learning for Knowledge Graphs**. Maximilian Nickel, Kevin Murphy, Volker Tresp, Evgeniy Gabrilovich. 2016.  [[link]](https://arxiv.org/pdf/1503.00759.pdf)
 4. **Knowledge Graph Embedding: A Survey of Approaches and Applications**. Quan Wang, Zhendong Mao, Bin Wang, Li Guo. TKDE 2017.  [[link]](http://ieeexplore.ieee.org/abstract/document/8047276/)
+5. **TransE: Translating Embeddings for Modeling Multi-relational Data**. Antoine Bordes, Nicolas Usunier, Alberto Garcia-Duran, Jason Weston, Oksana Yakhnenko. NIPS 2013. [[link]](http://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf)
+4. **NTN: Reasoning With Neural Tensor Networks for Knowledge Base Completion**. Richard Socher, Danqi Chen, Christopher D. Manning, Andrew Ng. NIPS 2013. [[link]](http://papers.nips.cc/paper/5028-reasoning-with-neural-tensor-networks-for-knowledge-base-completion.pdf)
+5. **ComplEx: Complex Embeddings for Simple Link Prediction**. Théo Trouillon, Johannes Welbl, Sebastian Riedel, Éric Gaussier and Guillaume Bouchard. ICML 2016. [[link]](http://proceedings.mlr.press/v48/trouillon16.pdf)
+6. **RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space**. Zhiqing Sun, Zhi Hong Deng, Jian Yun Nie, Jian Tang. ICLR 2019. [[link]](https://openreview.net/pdf?id=HkgEQnRqYQ)
+7. **TuckER: Tensor Factorization for Knowledge Graph Completion**. Ivana Balazevic, Carl Allen, Timothy M. Hospedales. EMNLP 2019. [[link]](https://arxiv.org/pdf/1901.09590.pdf)
 #### Further reading
 1. **OpenKE** [[link]](http://openke.thunlp.org/)
 ### c. Reasoning
 1. **KG Reasoning paper list** [[link]](https://github.com/THU-KEG/Knowledge_Graph_Reasoning_Papers) & PPT  [[link]](https://sites.cs.ucsb.edu/~william/papers/Part3_KB_Reasoning.pdf)
-
+2. **Differentiable Learning of Logical Rules for Knowledge Base Reasoning**. Fan Yang, Zhilin Yang, William W. Cohen. NeurIPS 2017. [[link]](https://papers.nips.cc/paper/6826-differentiable-learning-of-logical-rules-for-knowledge-base-reasoning.pdf)
+3. **Go for a Walk and Arrive at the Answer: Reasoning Over Paths in Knowledge Bases using Reinforcement Learning**. Rajarshi Das, Shehzaad Dhuliawala, Manzil Zaheer, Luke Vilnis, Ishan Durugkar, Akshay Krishnamurthy, Alex Smola, Andrew McCallum. ICLR 2018. [[link]](https://papers.nips.cc/paper/7912-m-walk-learning-to-walk-over-graphs-using-monte-carlo-tree-search.pdf)
 ## 6. Information Extraction - 1 
 ### a. Part of Speech Tagging (POS Tagging)
 1. **Multilingual Part-of-Speech Tagging with Bidirectional Long Short-Term Memory Models and Auxiliary Loss**. Plank Barbara, Anders Søgaard, Yoav Goldberg. ACL 2016. [[link]](https://arxiv.org/pdf/1604.05529)
@@ -168,16 +173,16 @@ This repository provides reading materials recommended by NLP-THU Course.
 
 ## 10. Information Retrieval
 #### Must-read papers
-1. **PACRR: A Position-Aware Neural IR Model for Relevance Matching**. EMNLP 2017 [[link]](https://arxiv.org/pdf/1704.03940.pdf)
-2. **Entity-Duet Neural Ranking: Understanding the Role of Knowledge Graph Semantics in Neural Information Retrieval**. ACL 2018 [[link]](https://arxiv.org/abs/1805.07591)
-3. **A Deep Look into Neural Ranking Models for Information Retrieval**. 2019 [[link]](https://arxiv.org/pdf/1903.06902.pdf)
-4. **Selective Weak Supervision for Neural Information Retrieval**. WWW 2020 [[link]](https://arxiv.org/abs/2001.10382)
+
+1. **A Latent Semantic Model with Convolutional-Pooling  Structure for Information Retrieval**. Yelong Shen, Xiaodong He, Jianfeng Gao, Li Deng, and Grégoire Mesnil. CIKM 2014. [[link]](https://www.iro.umontreal.ca/~lisa/pointeurs/ir0895-he-2.pdf)
+2. **Text Matching as Image Recognition**. Liang Pang, Yanyan Lan, Jiafeng Guo, Jun Xu, Shengxian Wan, and Xueqi Cheng. AAAI 2016. [[link]](https://arxiv.org/pdf/1602.06359)
+3. **Query Expansion with Locally-Trained Word Embeddings**. Fernando Diaz, Bhaskar Mitra, and Nick Craswell. ACL 2016. [[link]](https://arxiv.org/pdf/1605.07891)
+4. **PACRR: A Position-Aware Neural IR Model for Relevance Matching**. Kai Hui, Andrew Yates, Klaus Berberich, Gerard de Melo. EMNLP 2017. [[link]](https://arxiv.org/pdf/1704.03940.pdf)
+5. **Dense Passage Retrieval for Open-Domain Question Answering**. Vladimir Karpukhin, Barlas Oğuz, Sewon Min, Patrick Lewis, Ledell Wu, Sergey Edunov, Danqi Chen, Wen-tau Yih. EMNLP 2020. [[link]](https://www.cs.princeton.edu/~danqic/papers/emnlp2020a.pdf)
+6. **Entity-Duet Neural Ranking: Understanding the Role of Knowledge Graph Semantics in Neural Information Retrieval**. Zhenghao Liu, Chenyan Xiong, Maosong Sun, and Zhiyuan Liu. ACL 2018. [[link]](https://arxiv.org/abs/1805.07591)
 #### Further reading
-1. **Explicit Semantic Ranking for Academic Search via Knowledge Graph Embedding**. WWW 2017 [[link]](https://dl.acm.org/doi/abs/10.1145/3038912.3052558)
-2. **Query suggestion with feedback memory network**. WWW 2018 [[link]](https://dl.acm.org/doi/abs/10.1145/3178876.3186068)
-3. **NPRF: A Neural Pseudo Relevance Feedback Framework for Ad-hoc Information Retrieval**. EMNLP 2018 [[link]](https://dl.acm.org/doi/abs/10.1145/3038912.3052558)
-4. **Towards Better Text Understanding and Retrieval through Kernel Entity Salience Modeling**. SIGIR 2018 [[link]](https://dl.acm.org/doi/10.1145/3209978.3209982)
-5. **Deeper Text Understanding for IR with Contextual Neural Language Modeling**. SIGIR 2019 [[link]](https://dl.acm.org/doi/abs/10.1145/3331184.3331303)
+1. **Explicit Semantic Ranking for Academic Search via Knowledge Graph Embedding**. Chenyan Xiong, Russell Power, Jamie Callan. WWW 2017. [[link]](https://dl.acm.org/doi/abs/10.1145/3038912.3052558)
+2. **Deeper Text Understanding for IR with Contextual Neural Language Modeling**. Zhuyun Dai, Jamie Callan. SIGIR 2019. [[link]](https://dl.acm.org/doi/abs/10.1145/3331184.3331303)
 
 ## 11. Question Answering
 #### a. Reading Comprehension
