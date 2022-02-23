@@ -132,6 +132,8 @@ This repository provides reading materials recommended by NLP-THU Course.
 4. **Knowledgeable Reader: Enhancing Cloze-style Reading Comprehension with External Commonsense Knowledge**. Todor Mihaylov and Anette Frank. ACL 2018 [[link]](https://www.aclweb.org/anthology/P18-1076)
 5. **Improving question answering by commonsense-based pre-training**. Wanjun Zhong, Duyu Tang, Nan Duan, Ming Zhou, Jiahai Wang, and Jian Yin. 2018 [[link]](https://arxiv.org/pdf/1809.03568.pdf)
 6. **Adaptive knowledge sharing in multi-task learning: Improving low-resource neural machine translation**. Poorya Zaremoodi, Wray Buntine, and Gholamreza Haffari. ACL 2018 [[link]](https://www.aclweb.org/anthology/P18-2104)
+7. **ERICA: Improving Entity and Relation Understanding for Pre-trained Language Models via Contrastive Learning**. Yujia Qin, Yankai Lin, Ryuichi Takanobu, Zhiyuan Liu, Peng Li, Heng Ji, Minlie Huang, Maosong Sun, Jie Zhou. ACL 2021 [[link]](https://arxiv.org/pdf/2012.15022.pdf)
+8. **K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters**. Ruize Wang, Duyu Tang, Nan Duan, Zhongyu Wei, Xuanjing Huang, Jianshu ji, Guihong Cao, Daxin Jiang, Ming Zhou. ACL 2021 [[link]](https://aclanthology.org/2021.findings-acl.121.pdf)
 
 ## 9. Advanced Learning Methods
 #### a. Adversarial Training
@@ -202,6 +204,7 @@ This repository provides reading materials recommended by NLP-THU Course.
 4. **(PIQA) Phrase-indexed question answering: A new challenge for scalable document comprehension**. EMNLP 2018  [[link]](https://www.aclweb.org/anthology/D18-1052.pdf)
 5. **(Common Sense) Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering**.  [[link]](https://arxiv.org/abs/1909.05311)
 6. **(CQA) SDNet: Contextualized Attention-based Deep Network for Conversational Question Answering**.  [[link]](https://arxiv.org/abs/1812.03593)
+7. **HOTPOTQA: A Dataset for Diverse, Explainable Multi-hop Question Answering**. EMNLP 2018 [[link]](https://arxiv.org/abs/1809.09600)
 
 ## 12. Text Generation
 #### a. Survey
